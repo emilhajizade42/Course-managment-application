@@ -8,15 +8,16 @@ namespace taskSometing
     {
         public string Fullname { get; set; }
         public string Group_No { get; set; }
-        public bool zemanet { get; set; }
+        public bool Zemanet { get; set; }
         public void ShowInfo()
         {
-            Console.WriteLine($"ad : {Fullname},grup :  {Group_No} ,zament : {zemanet} ");
+            Console.WriteLine($"FULLNAME : {Fullname}|| GROUP  :  {Group_No} || ZEMANET : {Zemanet} ");
         }
-        public Student(string fullname)
+        public Student(string fullname,string group_No, bool zemanet)
         {
             Fullname = fullname;
-            
+            Group_No = group_No;
+            Zemanet = zemanet;
         }
     }
 }

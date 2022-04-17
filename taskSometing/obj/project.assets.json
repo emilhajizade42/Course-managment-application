@@ -8,24 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\elnara\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\emil code\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elnara\\Desktop\\taskSometing\\taskSometing\\taskSometing.csproj",
+      "projectUniqueName": "C:\\Users\\emil code\\Desktop\\New folder\\Course-managment-application\\taskSometing\\taskSometing.csproj",
       "projectName": "taskSometing",
-      "projectPath": "C:\\Users\\elnara\\Desktop\\taskSometing\\taskSometing\\taskSometing.csproj",
-      "packagesPath": "C:\\Users\\elnara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elnara\\Desktop\\taskSometing\\taskSometing\\obj\\",
+      "projectPath": "C:\\Users\\emil code\\Desktop\\New folder\\Course-managment-application\\taskSometing\\taskSometing.csproj",
+      "packagesPath": "C:\\Users\\emil code\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\emil code\\Desktop\\New folder\\Course-managment-application\\taskSometing\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\elnara\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\emil code\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

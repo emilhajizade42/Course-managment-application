@@ -6,7 +6,7 @@ namespace taskSometing
 {
     class Group
     {
-        static string[] names;
+    
         public string Name { get; set; }
       
         public string No { get; set; }

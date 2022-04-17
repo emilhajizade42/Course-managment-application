@@ -157,16 +157,23 @@ namespace taskSometing
                 }
                 Console.WriteLine(" adi daxil edin ");
                 string fullname = Console.ReadLine();
-               
-                
 
-                var temp = new Student(fullname);
-                foreach (var item in qruplar)
+                Console.WriteLine("Telebenin zemanetli olub olmamasini  daxil edin (true/false) ");
+                string zemanet = Console.ReadLine().ToLower();
+
+                if (isTrueFalse(zemanet)=="bad")
                 {
-                    if (item.No==qrup_name)
+                    Console.WriteLine("yanlis deyer menyuya qayidirsiz");
+                    return;
+                }
+
+                var stu = new Student(fullname, qrup_name,bool.Parse(zemanet));
+                foreach (var qrup in qruplar)
+                {
+                    if (qrup.No==qrup_name)
                     {
                         
-                        item.AddStudent(temp);
+                        qrup.AddStudent(stu);
                         break;
                     }
                   

@@ -26,3 +26,17 @@ C:\Users\elnara\Desktop\taskSometing\taskSometing\obj\Debug\netcoreapp3.1\taskSo
 C:\Users\elnara\Desktop\taskSometing\taskSometing\obj\Debug\netcoreapp3.1\taskSometing.dll
 C:\Users\elnara\Desktop\taskSometing\taskSometing\obj\Debug\netcoreapp3.1\taskSometing.pdb
 C:\Users\elnara\Desktop\taskSometing\taskSometing\obj\Debug\netcoreapp3.1\taskSometing.genruntimeconfig.cache
+C:\Users\emil code\Desktop\New folder\Course-managment-application\taskSometing\bin\Debug\netcoreapp3.1\taskSometing.exe
+C:\Users\emil code\Desktop\New folder\Course-managment-application\taskSometing\bin\Debug\netcoreapp3.1\taskSometing.deps.json
+C:\Users\emil code\Desktop\New folder\Course-managment-application\taskSometing\bin\Debug\netcoreapp3.1\taskSometing.runtimeconfig.json
+C:\Users\emil code\Desktop\New folder\Course-managment-application\taskSometing\bin\Debug\netcoreapp3.1\taskSometing.runtimeconfig.dev.json
+C:\Users\emil code\Desktop\New folder\Course-managment-application\taskSometing\bin\Debug\netcoreapp3.1\taskSometing.dll
+C:\Users\emil code\Desktop\New folder\Course-managment-application\taskSometing\bin\Debug\netcoreapp3.1\taskSometing.pdb
+C:\Users\emil code\Desktop\New folder\Course-managment-application\taskSometing\obj\Debug\netcoreapp3.1\taskSometing.csproj.AssemblyReference.cache
+C:\Users\emil code\Desktop\New folder\Course-managment-application\taskSometing\obj\Debug\netcoreapp3.1\taskSometing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil code\Desktop\New folder\Course-managment-application\taskSometing\obj\Debug\netcoreapp3.1\taskSometing.AssemblyInfoInputs.cache
+C:\Users\emil code\Desktop\New folder\Course-managment-application\taskSometing\obj\Debug\netcoreapp3.1\taskSometing.AssemblyInfo.cs
+C:\Users\emil code\Desktop\New folder\Course-managment-application\taskSometing\obj\Debug\netcoreapp3.1\taskSometing.csproj.CoreCompileInputs.cache
+C:\Users\emil code\Desktop\New folder\Course-managment-application\taskSometing\obj\Debug\netcoreapp3.1\taskSometing.dll
+C:\Users\emil code\Desktop\New folder\Course-managment-application\taskSometing\obj\Debug\netcoreapp3.1\taskSometing.pdb
+C:\Users\emil code\Desktop\New folder\Course-managment-application\taskSometing\obj\Debug\netcoreapp3.1\taskSometing.genruntimeconfig.cache
